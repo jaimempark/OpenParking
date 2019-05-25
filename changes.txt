@@ -20,4 +20,4 @@ Version 0.3 - ListView Implementation
 	      Removal of debugging features
 	      ParkingSpaces 
 	      UI for current features
-	      .apk Release 1
+	      .apk Release 1 s
